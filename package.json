@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "@mapbox/tilebelt": "^1.0.1",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mkdirp": "^1.0.3",
+    "pngjs": "^3.4.0",
+    "redis": "^2.8.0",
+    "request": "^2.88.0",
+    "sqlite3": "^4.1.1"
+  }
+}

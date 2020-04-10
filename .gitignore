@@ -1,0 +1,54 @@
+# Project-specific
+hydroxy-cache/*
+geojson-tmp/*
+
+# Essential
+.DS_Store
+node_modules
+
+# Npm
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+
+# JS Testing
+/test/unit/coverage/
+/test/e2e/reports/
+selenium-debug.log
+
+# Proj
+.idea
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# Py
+*.pyc
+__pycache__
+.venv
+venv
+*.pickle
+
+# DB
+*.db
+*.sqlite
+*.sqlite3
+:memory
+db/*
+backend/db/*
+server/db/*
+db/journal
+db/journal/*
+
+# Blender
+*.blend
+*.blend1
+
+# Sourcemaps
+*.js.map
+*.css.map
+
+# SSR
+.next
+.nuxt
